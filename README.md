@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+## TODO:
+1)Authentication
+2)Better card
+3)Card details
+4)Time
+5)Custom Category
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
